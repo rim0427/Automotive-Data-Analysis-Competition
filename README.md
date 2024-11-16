@@ -78,5 +78,5 @@ train 데이터에는 ID, Language, Title, Notes 컬럼이 존재했습니다. �
 
 간결한 표현과 필요한 정보에만 집중시키면서 토큰을 절약하고 더욱 명확한 구조와 일관성을 유지하며 정확도 상승을 유도했습니다.
 
-### Model
+## Model
 GPT3.5-turbo-0125 (temperature : 0.4)
