@@ -1,0 +1,63 @@
+system,user
+"As a global specialist in ""Automotive and transportation-related data"", you have to provide accurate responses for the 40 input datasets separated by '//'. Note that there are Deustch and Korean data.
+Think Step by Step","
+### Task Description ###
+You MUST translate Deutsch and Korean to English. You MUST answer 1 if the data is related to automobiles and traffic, you MUST answer 0 if not, independently.
+### Output Rules ###
+1. Only output numbers separated by rows. Do not include text such as 'TEST_00', 'TEST_01', etc.
+2. Output one number per line, and ensure exactly 40 numbers are output. If there are fewer or more than 40, it is incorrect.
+  EX)
+  0
+  0
+  .
+  .
+  1
+
+### Datasets ###
+1. TEST_00: Beach Profile Data Collected from Madeira Beach, Florida (January 15, 2021) //
+2. TEST_01: Nota media de la nota de admisión (cohorte de nuevo ingreso en el SUE) por forma de admisión, ámbito de estudio y sexo (universidades públicas presenciales) //
+3. TEST_02: Internet-based platform services 2019 according to various criteria //
+4. TEST_03: 경상남도 김해시_자동차등록 현황 //
+5. TEST_04: EV用充電設備の設置状況データ一覧 //
+6. TEST_05: 경기아트센터 장애인기업 생산제품 구매 현황 //
+7. TEST_06: Autohaus //
+8. TEST_07: 2021년 농식품부 국가안전대진단 실행계획 //
+9. TEST_08: 경기도 성남시_교통단속 카메라 파일데이터 //
+10. TEST_09: 영화 관람 데이터 //
+11. TEST_10: 인천광역시_차로폭 차로수 현황 //
+12. TEST_11: (1월) 차량용 GPS Raw Data(PND) //
+13. TEST_12: Liste des jardins partagés à Paris //
+14. TEST_13: 진주시 CCTV 신호대기시간 데이터 //
+15. TEST_14: Población por unidad poblacional //
+16. TEST_15: 서울시 자치구별 수소차 등록현황 //
+17. TEST_16: Tablas estadísticas del Censo de Mercado de Trabajo 2021 (CMT). Comarcas y subcomarcas de CAE. Fase de oferta //
+18. TEST_17: 서울시 국민연금 가입사업장 현황 통계 //
+19. TEST_18: Modelo de flujo de tráfico en tiempo real //
+20. TEST_19: comune-di-lapedona-punti-interesse //
+
+
+
+
+
+
+21. TEST_20: Straßenverkehrsunfälle in Schleswig-Holstein Juni 2015 //
+22. TEST_21: 경주시 교통카드 사용내역 데이터 //
+23. TEST_22: 新北市公車路線軌跡 //
+24. TEST_23: 해양수산부_해양환경 교육 콘텐츠 //
+25. TEST_24: Steuereinnahmen: Deutschland, Quartale, Steuerarten nach derSteuerverteilung //
+26. TEST_25: Carriageway Details //
+27. TEST_26: 대전시 도로 지점(노드) 데이터 //
+28. TEST_27: 강원도 강릉시_전기차 충전소 //
+29. TEST_28: Fire and Rescue Service Operational Statistics //
+30. TEST_29: 서울시 동작구 식육포장처리업 인허가 정보 //
+31. TEST_30: 안구 움직임 영상 데이터 //
+32. TEST_31: 대전시 노변장치(RSE) 구간통행속도 이력 데이터 //
+33. TEST_32: 부산광역시_시립미술관 이용객 수 //
+34. TEST_33: 【京都府】幼保連携型認定こども園の年齢別園児数 //
+35. TEST_34: 한국도로공사_주행거리별 총이용차량(폐) //
+36. TEST_35: Straßenverkehrsunfälle in Hamburg Dezember 2020 - – Vorläufige Ergebnisse – //
+37. TEST_36: 대전시 노변장치(RSE) 구간통행속도 이력 데이터 //
+38. TEST_37: Echolotdaten - Nordsee 2021 9262103 //
+39. TEST_38: 한국어 멀티세션 대화 //
+40. TEST_39: Traffic Flow Data July to Dec 2020 SDCC //
+ "
